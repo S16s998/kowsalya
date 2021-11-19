@@ -1,0 +1,12 @@
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\bin\Debug\student management.exe.config
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\bin\Debug\student management.exe
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\bin\Debug\student management.pdb
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\bin\Debug\student management.xml
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student_management.Form1.resources
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student_management.Form2.resources
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student_management.Resources.resources
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student management.vbproj.GenerateResource.Cache
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student management.exe
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student management.xml
+C:\Users\star\Documents\Visual Studio 2008\Projects\student management\student management\obj\Debug\student management.pdb
